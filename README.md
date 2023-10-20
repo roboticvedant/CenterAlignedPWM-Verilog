@@ -32,4 +32,5 @@ While center-aligned PWM offers numerous advantages, it's somewhat rare in simpl
 
 Download the Vivado project file for a comprehensive implementation and simulation environment. The Verilog code uses a 8bit duty inputs for phaseA,phaseB and phaseC. This could be increased or decreased to optimize according to application. The test bench uses a 500MHz clock for simulation, which is relatively high for these applications, which could be changed according to hardware constraints for best simulation result.
 
+![Schematic_RTL](https://github.com/roboticvedant/CenterAlignedPWM-Verilog/blob/main/Sim_img/rtl_schematic.jpg)
 ---
