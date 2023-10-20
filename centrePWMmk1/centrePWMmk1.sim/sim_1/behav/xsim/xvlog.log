@@ -1,0 +1,4 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "M:/dotwindows/Application Data/try_1/try_1.srcs/sources_1/new/pwm.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module pwm
+INFO: [VRFC 10-2263] Analyzing Verilog file "M:/dotwindows/Application Data/try_1/try_1.srcs/sim_1/new/pwm_tb.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module pwm_tb
