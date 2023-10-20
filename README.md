@@ -5,7 +5,7 @@
 This repository contains the Verilog code for a Center-Aligned Pulse Width Modulation (CAPWM) module. The project includes the main Verilog module, a testbench for simulation, and a Vivado project file for reference.
 
 ## Importance of Center-Aligned PWM
-
+![Sim_graph](https://github.com/roboticvedant/CenterAlignedPWM-Verilog/blob/main/Sim_img/unnamed.jpg)
 ### In Power Electronics
 
 Center-aligned PWM is a pivotal technique in power electronics, especially in advanced converters. Unlike edge-aligned PWM, which triggers transitions at the edges of the waveform, center-aligned PWM initiates transitions at the waveform's center. This symmetrical operation significantly reduces electromagnetic interference (EMI) and offers superior harmonic performance.
